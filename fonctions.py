@@ -1,14 +1,37 @@
 ########################## Fonctions #########################
+
+#username = input("Enter your name: ")
+
+
+
+
+
+print(a==b)
+
+
+
+
 def dire_bonjour():
     print("Bonjour")
+    print("Bonjour *********")
 
 
 def dire_bonjour2(nom):
-    print(f"Bonjour {nom}")
+    print("Bonjour", nom)
 
 
-def dire_bonjour3(nom, prenom="Afi"):
-    return f"{nom} {prenom}"
+# dire_bonjour()
+#dire_bonjour2(username)
 
 
-print(dire_bonjour3("Koffi", prenom="Koudjo"))
+def somme():
+    a = input("Entrer a: ")
+    b = input("Entrer b: ")
+    return int(a) + int(b)
+
+
+
+
+resultat = somme()
+
+print(resultat)
