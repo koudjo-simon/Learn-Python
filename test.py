@@ -1,2 +1,5 @@
-for i in range(25, 0, -1):
-    print(" "*(25 - i), "*"*i)
+i = 0
+liste = []
+while i < 10:
+    liste.append(i)
+    i -= 1
