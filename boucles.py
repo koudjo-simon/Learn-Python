@@ -4,8 +4,9 @@
 #     som = som + i
 #
 # print("La somme des indices est: ", som)
-
-for i in range(3, 20):
+n = int(input("Entrer un nombre: "))
+m = int(input("Entrer un nombre: "))
+for i in range(n, m):
     print("*" * i)
 
 print("\n################################################\n")
@@ -66,6 +67,10 @@ def imprimer_motif(nombre_lignes):
                 valeur_courante += pas
         print()
 
+
 if __name__ == "__main__":
     nombre_lignes = 10
     imprimer_motif(nombre_lignes)
+
+
+
