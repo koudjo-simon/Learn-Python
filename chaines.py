@@ -36,9 +36,11 @@ pattern_3 = "Je m'appel {1} et j'ai {0} ans".format(nom, age)
 print(pattern_3)
 
 
-for i in range(27, 123):
+for i in range(33, 123):
     print(chr(i), end=' ')
 
 for i in 'abcdefghijklmnopqrstuvwxyz':
     print(f"Le code ASCII de {i} est: {ord(i)}")
 
+48
+57
