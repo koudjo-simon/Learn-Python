@@ -1,0 +1,9 @@
+Informations générales sur JavaFX
+Logo JavaFX
+JavaFX étend la puissance de Java en permettant aux développeurs d'utiliser n'importe quelle bibliothèque Java au sein des applications JavaFX. Les développeurs peuvent ainsi multiplier les possibilités dans Java et utiliser la technologie de présentation offerte par JavaFX pour créer des expériences visuelles époustouflantes. En tant qu'utilisateur, vous pourrez exécuter les applications JavaFX dans un navigateur ou les déplacer sur le Bureau par un simple glisser-déplacer.
+
+Avantages de JavaFX :
+Permet aux développeurs d'intégrer des graphiques vectoriels, des animations, du son et des vidéos récupérés sur Internet dans une application riche, dense et interactive.
+Etend la technologie Java grâce à l'utilisation de n'importe quelle bibliothèque Java au sein d'une application JavaFX.
+Améliore l'efficacité du travail entre concepteurs et développeurs, les premiers pouvant utiliser les outils de leur choix tout en collaborant avec les seconds.
+Pour plus d'informations sur la technologie JavaFX, rendez-vous sur le site JavaFX.

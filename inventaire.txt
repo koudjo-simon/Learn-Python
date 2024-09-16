@@ -1,0 +1,6 @@
+ordinateur,3,100000
+ventilateur,10,5000
+valise,30,10000
+projecteur,2,20000
+cable,20,3000
+phone,15,70000

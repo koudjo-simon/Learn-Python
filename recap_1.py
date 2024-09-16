@@ -58,3 +58,4 @@ miseAjour()
 suppressionContact()
 
 print(contacts)
+
